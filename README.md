@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adem Rahal
-- 👀 I’m study in computer science, quantum computing and robotics.
+- 👀 I study computer science, quantum computing and robotics.
 - 📫 How to reach me at adem.rahal01@gmail.com
 
 <!---
